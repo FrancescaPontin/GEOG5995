@@ -13,6 +13,9 @@ dependencies:
   - descartes
   - ipywidgets
   - contextily
+  - geopandas
+  - mapclassify
+  - pyproj
   - pip:
       - plotly
       - statsmodels
