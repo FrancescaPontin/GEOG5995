@@ -4,22 +4,30 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python==3.8
-  - seaborn
-  - matplotlib==3.*
   - geopandas
-  - mapclassify
-  - cartopy
-  - descartes
-  - ipywidgets
-  - contextily
-  - geopandas
-  - mapclassify
+  - shapely
+  - fiona
   - pyproj
-  - pip:
-      - plotly
-      - statsmodels
-      - scikit-learn
+  - pygeos
+  - rtree
+  - mapclassify
+  - libpysal
+  - matplotlib
+  - geopy
+  - cartopy
+  - pyepsg
+  - contextily
+  - rasterio
+  - geoplot
+  - folium
+  - packaging
+  - seaborn
+  - plotly
+  - statsmodels
+  - scikit-learn
+
+
+
       
 
 
