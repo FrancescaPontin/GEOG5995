@@ -1,10 +1,10 @@
-# CDRC Intoduction to Python: Day 1
+# GEOG5995M Programming for Social Science
  
-Binder link: [https://mybinder.org/v2/gh/Leeds-CDRC/CDRC_Python_day_1/HEAD?labpath=CDRC_Python_for_Data_Analysis_1.ipynb](https://mybinder.org/v2/gh/Leeds-CDRC/CDRC_Python_day_1/HEAD?labpath=CDRC_Python_for_Data_Analysis_1.ipynb)
+Binder link: 
 
-## Materials for day 1 of the CDRC Beginner’s Python for Data Analysis course
+## Materials for GEOG5995M
 
-All material created by Fran Pontin 
+All material created & developed by Fran Pontin & Ryan Urqhart
 
 Email:F.L.Pontin@leeds.ac.uk,
 
