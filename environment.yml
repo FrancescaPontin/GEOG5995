@@ -4,23 +4,8 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - geopandas
-  - shapely
-  - fiona
-  - pyproj
-  - pygeos
-  - rtree
-  - mapclassify
-  - libpysal
+  - pandas
   - matplotlib
-  - geopy
-  - cartopy
-  - pyepsg
-  - contextily
-  - rasterio
-  - geoplot
-  - folium
-  - packaging
   - seaborn
   - plotly
   - statsmodels
