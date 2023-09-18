@@ -1,0 +1,33 @@
+name: geog_env
+
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - geopandas
+  - shapely
+  - fiona
+  - pyproj
+  - pygeos
+  - rtree
+  - mapclassify
+  - libpysal
+  - matplotlib
+  - geopy
+  - cartopy
+  - pyepsg
+  - contextily
+  - rasterio
+  - geoplot
+  - folium
+  - packaging
+  - seaborn
+  - plotly
+  - statsmodels
+  - scikit-learn
+
+
+
+      
+
+
