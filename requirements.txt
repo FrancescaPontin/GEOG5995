@@ -10,6 +10,7 @@ pandas>=1.4.0
 pyproj>=3.3.0
 shapely>=2.0.0
 packaging
+geopandas
 
 # geodatabase access
 psycopg2>=2.8.0
